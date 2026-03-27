@@ -98,6 +98,76 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "工作/BT测试账号.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BT测试账号"
+            }
+          },
+          {
+            "id": "3f126265e7083723",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作/OKR模版.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OKR模版"
+            }
+          },
+          {
+            "id": "29ddedb4c8d31ab1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "我的/服务器.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "服务器"
+            }
+          },
+          {
+            "id": "576fd080c90916ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作/OKR模版.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OKR模版"
+            }
+          },
+          {
+            "id": "c7dc73121dbf21da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "我的/OpenClaw 安装指南.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OpenClaw 安装指南"
+            }
+          },
+          {
+            "id": "8d36edb0b557ff25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "我的/账号密码.md",
                 "mode": "source",
                 "source": false
@@ -107,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 11
       },
       {
         "id": "4f92c9dfea45763c",
@@ -297,14 +367,30 @@
       "bases:新建数据库": false
     }
   },
-  "active": "d33e26ab13f80c21",
+  "active": "8d36edb0b557ff25",
   "lastOpenFiles": [
     "我的/服务器.md",
-    "我的/Git.md",
-    "我的/账号密码.md",
+    "工作/wukong.md",
     "工作/BT测试账号.md",
     "工作/OKR模版.md",
-    "工作/wukong.md",
+    "我的/Openclaw 企业微信配置指南.md",
+    "我的/OpenClaw 使用教程 基础版.md",
+    "Pasted image 20260313153840.png",
+    "Pasted image 20260313153816.png",
+    "Pasted image 20260313153754.png",
+    "我的/Openclaw 配置.md",
+    "Pasted image 20260313153102.png",
+    "Pasted image 20260313153033.png",
+    "Pasted image 20260313152844.png",
+    "Pasted image 20260313152832.png",
+    "Pasted image 20260313152814.png",
+    "Pasted image 20260313152754.png",
+    "Pasted image 20260313152729.png",
+    "我的/OpenClaw 安装指南.md",
+    "未命名 1.md",
+    "我的/账号密码.md",
+    "未命名.md",
+    "我的/Git.md",
     "工作",
     "我的",
     "我的账号",
